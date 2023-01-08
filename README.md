@@ -1,0 +1,3 @@
+- autoscale disable edilemedi
+- master_ipv4_cidr_block?
+- enable_private_endpoint?

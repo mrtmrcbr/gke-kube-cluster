@@ -1,0 +1,17 @@
+logs:
+  general:
+    level: ERROR
+
+ports:
+  web:
+  websecure:
+    tls:
+      enabled: false
+
+ingressRoute:
+  dashboard:
+    enabled: false
+
+ingressClass:
+  enabled: true
+  isDefaultClass: true
